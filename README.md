@@ -1,1 +1,1 @@
-# Apply-DT-Bagging-Boostingusing-Handwritten-Digits-Data-Set-
+# Apply-DT-Bagging-Boostingusing-Digits-Data-Set-
