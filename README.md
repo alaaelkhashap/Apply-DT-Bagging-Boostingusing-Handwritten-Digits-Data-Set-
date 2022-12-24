@@ -1,4 +1,4 @@
-# Apply-DT-Bagging-Boostingusing
+# Apply-DT-Bagging-Boostingusing-Handwritten-Digits-Data-Set
 ## Abstract 
 First, apply decision tree. second, using Bagging to generate a set of bootstrap datasets, create estimators for each bootstrap
 dataset, and finally utilize majority voting (soft or hard) to get the final decision.Thirs, useing GradientBoosting classifier to classify test set samples. There are 2 important hyperparameters in GradientBoosting, i.e., the number of estimators, learning rate tune each one of them then display accuracy and Confusion Matrix separately for the best value of both parameters
